@@ -2,7 +2,7 @@
 <img src="public\img\ao3 full img.jpg?raw=true" width="60%"> 
 
 ## 1. INFO
-<div align="center"><img src="/public/img/info2.png?raw=true" height=500 width="700"></div>
+<div align="center"><img src="/public/img/info2.jpg?raw=true" height=500 width="700"></div>
 
 <br>
 
