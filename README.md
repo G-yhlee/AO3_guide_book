@@ -1,12 +1,13 @@
 # AO3 guide book 
 
-<img src="public\img\ao3\ao3 full name.jpg?raw=true" width="60%"> 
+<img src=".\public\img\ao3\ao3 full name.jpg?raw=true" width="60%"> 
 
 
 ## 0. INFO
 <div align="center">
 <!-- <img src="/public/img/ao3/ao3_monitor_1.jpg?raw=true" height=300 width="400"> -->
-<img src="public\img\ao3\ao3_monitor_2.jpg?raw=true" height="400" width="500">
+<img src=".\public\img\ao3\ao3_monitor_2.jpg?raw=true" height="400" width="500">
+
 </div>
 <br>
 
