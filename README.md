@@ -5,8 +5,8 @@
 ## 0. INFO
 <div align="center">
 <!-- <img src=".\public\img\ao3\ao3 full name.jpg?raw=true" width="60%">  -->
-<img src="/public/img/ao3/ao3_monitor_1.jpg?raw=true"  width="30%">
-<img src=".\public\img\ao3\ao3_monitor_2.jpg?raw=true" width="40%" >
+<img src="/public/img/ao3/ao3_monitor_11.jpg?raw=true"  width="30%">
+<img src=".\public\img\ao3\ao3_monitor_22.jpg?raw=true" width="40%" >
 
 </div>
 <br>
