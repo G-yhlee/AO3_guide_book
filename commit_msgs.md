@@ -1,3 +1,3 @@
 git add .
-git commit -m "update::README.md:: 0.INFO , 001.BASIC intro"
+git commit -m "update::README.md"
 git push origin main
