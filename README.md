@@ -1,7 +1,7 @@
 # AO3 guide book 
 
 <img src=".\public\img\ao3\ao3 full name.jpg?raw=true" width="60%"> 
-
+<img src=".\public\img\ao3\ao3_monitor_2.jpg?raw=true" width="40%" >
 
 ## 0. INFO
 <div align="center">
