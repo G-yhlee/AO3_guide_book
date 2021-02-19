@@ -30,5 +30,5 @@
 
 1. ```트레이너_설치_방법``` [[트레이너_설치_방법]]  트레이너 설치 방법에 대해 배웁니다.
 
-[트레이너_설치_방법]: /ao3_guide_book/1.Basic/1.1.트레이너설치방법.md
+[트레이너_설치_방법]: /ao3_guide_book/1.Basic/1.1/트레이너설치방법.md
 [kakaobotScript]: /bot/kakao-bot.js
