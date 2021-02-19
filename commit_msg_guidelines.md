@@ -20,6 +20,8 @@ git push origin main
 
 
 ##### 테스트 커밋 메세지
-git add .
-git commit -m "update::ao3_guide_book::basic 가이드 작성"
-git push origin main
+> ...................................................................
+git add .  
+git commit -m "update::ao3_guide_book::basic 가이드 작성"  
+git push origin main  
+.....................................................................
